@@ -23,7 +23,6 @@ class App extends Component {
               <RemoveCounter></RemoveCounter>
             </div>
             <Dog/>
-             {/* <DogVIew/>  */}
           </div>
         </div>
 
